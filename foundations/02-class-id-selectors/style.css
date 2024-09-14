@@ -1,0 +1,18 @@
+.pinkslip {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-one {
+    color: rgb(26, 26, 224);
+    font-size: 36px;
+}
+
+#green-one {
+    background-color: hsl(120, 68%, 46%);
+    font-weight: bold;
+}
+
+.special {
+    font-size: 24px;
+}
